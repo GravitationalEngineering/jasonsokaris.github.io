@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:24:50	72381/72381	---MCZ	200	added ('OK')	text/html	date:Sun,%2029%20Dec%202019%2002:24:50%20GMT	https://jason-sokaris.format.com/	jason3/jason-sokaris.format.com/index.html	(from )
+21:24:51	201/201	---M-Z	200	added ('OK')	text/plain	date:Tue,%2024%20Dec%202019%2018:23:55%20GMT	https://jason-sokaris.format.com/robots.txt		(from )
+21:24:52	52592/52592	---MCZ	200	added ('OK')	text/css	date:Sun,%2029%20Dec%202019%2002:24:51%20GMT	http://jason-sokaris.format.com/stylesheet.css?v=2019-12-29T02:22:45Z	jason3/jason-sokaris.format.com/stylesheetc883.css	(from https://jason-sokaris.format.com/)
+21:24:54	72391/72391	---MCZ	200	added ('OK')	text/html	date:Sun,%2029%20Dec%202019%2002:24:51%20GMT	https://jason-sokaris.format.com/about	jason3/jason-sokaris.format.com/about.html	(from https://jason-sokaris.format.com/)
+21:24:54	1130/1130	---M-Z	404	error ('Not%20Found')	text/html	date:Sun,%2029%20Dec%202019%2002:24:51%20GMT	https://jason-sokaris.format.com/gecko/	jason3/jason-sokaris.format.com/gecko/index.html	(from https://jason-sokaris.format.com/)
+21:24:54	1130/1130	---M-Z	404	error ('Not%20Found')	text/html	date:Sun,%2029%20Dec%202019%2002:24:51%20GMT	https://jason-sokaris.format.com/applewebkit/	jason3/jason-sokaris.format.com/applewebkit/index.html	(from https://jason-sokaris.format.com/)
+21:24:54	1130/1130	---M-Z	404	error ('Not%20Found')	text/html	date:Sun,%2029%20Dec%202019%2002:24:52%20GMT	https://jason-sokaris.format.com/mozilla/	jason3/jason-sokaris.format.com/mozilla/index.html	(from https://jason-sokaris.format.com/)
