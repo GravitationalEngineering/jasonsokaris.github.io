@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.format.com	TRUE	/	FALSE	1999999999	__cfduid	d06a04c32c01103e4770d4471ec286e861576573218
+.my-free.website	TRUE	/	FALSE	1999999999	__cfduid	db70c2bec2e03a427d0f519c13fba4a3f1577814347
+jason-sokaris.my-free.website	TRUE	/	FALSE	1999999999	SameSite	Lax
+
