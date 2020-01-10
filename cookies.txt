@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+gravitationalengin.wixsite.com	TRUE	/experiment	FALSE	1999999999	svSession	4ca14e628c79c53c159aa717677ed460164d48584d739da226022ae9901a15fc587ae20bbbd938023b49d16267caa28b1e60994d53964e647acf431e4f798bcd66ef0cfdc1ce593dfe8702d3fbd197ed9026bacdbef65dc17401e9a4355b106c
+gravitationalengin.wixsite.com	TRUE	/experiment	FALSE	1999999999	TS01561512	01f0e9313136caab5643f640d759a593c452a86f70f6cccc0fbb5f5ae3432a8419c6a0f2ab9716a2bdc20bfca67fcb2d2a9c884af8
+.format.com	TRUE	/	FALSE	1999999999	__cfduid	d06a04c32c01103e4770d4471ec286e861576573218
+.my-free.website	TRUE	/	FALSE	1999999999	__cfduid	db70c2bec2e03a427d0f519c13fba4a3f1577814347
+jason-sokaris.my-free.website	TRUE	/	FALSE	1999999999	SameSite	Lax
+gravitationalengin.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache,desc=miss,varnish=miss, dc,desc=42"
+gravitationalengin.wixsite.com	TRUE	/	FALSE	1999999999	hs	1981638995
+gravitationalengin.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1578614642|-XzW0pegQJHV
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01f0e9313136caab5643f640d759a593c452a86f70f6cccc0fbb5f5ae3432a8419c6a0f2ab9716a2bdc20bfca67fcb2d2a9c884af8
+
